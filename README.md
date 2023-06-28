@@ -1,7 +1,6 @@
 # SVG-Logo-Maker
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-![aewtest](https://github.com/kingcaliente/SVG-Logo-Maker/assets/15383027/896399b1-5826-403f-a20b-95dafd7b2883)
 
   ## Description 
   This application was created to generate a high-quality, SVG Logo depending on a series of questions a user answers in their command line using Node.js
