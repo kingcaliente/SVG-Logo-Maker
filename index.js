@@ -1,8 +1,8 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-
-const { Triangle, Square, Circle } = require("./lib/shapes");
-
+const {Circle} = require("./lib/shapes");
+const {Triangle} = require("./lib/shapes");
+const {Square} = require("./lib/shapes");
 
 function newFile(fileName, answers) {
   let svgString = "";
