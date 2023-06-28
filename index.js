@@ -29,7 +29,7 @@ function newFile(fileName, answers) {
   svgString += "</svg>";
 
   
-  fs.newFile(fileName, svgString, (err) => {
+  fs.writeFile(fileName, svgString, (err) => {
     err ? console.log(err) : console.log("Generated logo.svg");
   });
 }
