@@ -33,4 +33,4 @@
 ## Link 
 # Follow this link for the video walkthrough
 
-Pending
+https://drive.google.com/file/d/1ZTp9gMhvcJyRH-HAwWWL6IDM6Fzs8MmU/view
