@@ -19,6 +19,8 @@
   ## Usage 
   Use inquirer from your command line to answer questions about the desired letters (up to 3) and colors (font and background). 
   For Example
+
+
   ![aewtest](https://github.com/kingcaliente/SVG-Logo-Maker/assets/15383027/896399b1-5826-403f-a20b-95dafd7b2883)
 
   ## License 
